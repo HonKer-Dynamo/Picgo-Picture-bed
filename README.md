@@ -1,2 +1,2 @@
 # Picgo-Picture-bed
-图床
+picgo图床
